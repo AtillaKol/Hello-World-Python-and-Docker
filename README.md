@@ -14,6 +14,6 @@ Then run following command:
  - docker ps --all (to find out the name of the container)
  - docker start [name of the container]
  ## run vs start
- The difference between those are simple to unterstand, once learnt.
- - run: Generates a new container from the iamge. (Even when the container is already generated)
+ The difference between those are simple to understand, once learnt.
+ - run: Generates a new container from the image. (Even when the container is already generated)
  - start: runs a container which is already created.
