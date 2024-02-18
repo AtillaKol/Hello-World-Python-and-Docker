@@ -1,7 +1,7 @@
 # Hello-World-Python-and-Docker
 Small Hello World program made with Python and Docker
 
-# How to build the iamge ?
+# How to build the image ?
 To build the image the dockerfile and the python file must be in the same directory.
 Then run following command:
   - docker build -t hello-world-python3 .
